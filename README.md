@@ -21,7 +21,7 @@
 - What are the least popular menu items ordered by the customer?
 - Which menu category generate the highest number of orders ?
 
-*More questions and detailed insights are included in the [presentation](https://github.com/ManyaGupta-mg/Restaurant-Order-Analysis-SQL/blob/main/Restaurant%20order%20analysis%20presentation.pdf)
+*More questions and detailed insights are included in the [Restaurant order analysis .pdf](https://github.com/ManyaGupta-mg/Restaurant-Order-Analysis-SQL/blob/main/Restaurant%20order%20analysis%20presentation.pdf)
 
 
 
